@@ -1409,6 +1409,7 @@ a {
 	}
 
 	&.popup {
+		display: none;
 		position: fixed;
 		max-width: 383px;
 		width: 100%;
